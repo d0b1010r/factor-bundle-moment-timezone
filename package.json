@@ -1,0 +1,15 @@
+{
+  "name": "factor-bundle-moment-timezone",
+  "version": "1.0.0",
+  "description": "test case for factor bundle failing when installing moment-timezone before moment",
+  "main": "start.sh",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "11.2.0",
+    "factor-bundle": "2.5.0"
+  }
+}
